@@ -90,9 +90,9 @@ var techsummary = {
 	"title":"Languages",
 	"Description" : "<br>Python(django)<br>Javascript(angular and nodejs, jquery library)<br>PHP(Laravel)<br>" +
 		"HTML5<br>CSS<br>Java<br>C<br>Well versed in OOP analysis and design methodologies<br>MVC design patterns as well," + 
-		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"
+		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"+
+		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"
 				},
-
 	{	
 	"title":"Databases",									
 	"Description" : "<br>Mysql<br>Postgre<br>MongoDB<br>Oracle 11g<br>Ms access<br>"
@@ -102,16 +102,21 @@ var techsummary = {
 		"title":"Systems",
 	"Description" : "<br>Ubuntu <br> Gnome<br>Lubuntu<br>Xubuntu<br>UNIX<br>MacOSX<br>Windows<br>"
 	},
-
+ 
 	{
 		"title":"Servers",
-	"Description" : "<br>%data%<br>Windows Server 2012<br>"
+	"Description" : "<br>Linux Ubuntu<br>Windows Server 2012<br>"
 	},
 
 	{
 		"title":"CMS",
 		"Description" : "<br>Wordpress<br>Joomla<br>Drupal<br>Wagtail<br>"
 	},
+	{
+		"title":"VCS",
+		"Description" : "<br>GIT<br>Github<br>Mercurial<br>Bitbucket<br>"
+	},
+
 
 	{
 		"title":"APIs",
