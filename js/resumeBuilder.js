@@ -18,19 +18,20 @@ var bio = {
 	},
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
-	" Who am I ? <br>A web developer with Great communication skills who get's along great with people",
-					" I'm a fast learner, who can find solutions to problems quickly, I’m also a self starter, oh," + 
+	" Who am I ? <br>Again;  A web developer,  a deliverer of things, i possess: Great communication skills and i get's along great with people",
+					" I'm a fast learner, who can find solutions to problems quickly, I’m also a self starter, oh!," + 
 					"  did i mention my great passion for technology. Especially software development ", 
-			 		" there is just something about  creating software and deploying it ", 
-					" watching a creation you are responsible for grow, fills you with a great sense of pride and" + 
-					" accomplishment.   ",
+			 		"programming is a craft, an art and a science, plus", 
+					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
+					" accomplishment. Like having a Kid i guess :-)   ",
 					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", 
 					
 					
 			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
 			 		],
 
-	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
+	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>",+
+	 " Basketball", "Brainstorming", "Delivering things",
  "Awesomeness"],
 
  "biopic":"images/mycv.png"
@@ -88,49 +89,50 @@ var techsummary = {
 	{
 
 	"title":"Languages",
-	"Description" : "<br>Python(django)<br>Javascript(angular and nodejs, jquery library)<br>PHP(Laravel)<br>" +
+	//another way of displaying the list instead of using an array i just used the <br> tag :-)
+	"Description" : "Python(django)<br>Javascript(angular and nodejs, jquery library)<br>PHP(Laravel)<br>" +
 		"HTML5<br>CSS<br>Java<br>C<br>Well versed in OOP analysis and design methodologies<br>MVC design patterns as well," + 
 		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"+
 		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"
 				},
 	{	
 	"title":"Databases",									
-	"Description" : "<br>Mysql<br>Postgre<br>MongoDB<br>Oracle 11g<br>Ms access<br>"
+	"Description" : "Mysql<br>Postgre<br>MongoDB<br>Oracle 11g<br>Ms access<br>"
 	},
 
 	{
 		"title":"Systems",
-	"Description" : "<br>Ubuntu <br> Gnome<br>Lubuntu<br>Xubuntu<br>UNIX<br>MacOSX<br>Windows<br>"
+	"Description" : "Ubuntu <br> Gnome<br>Lubuntu<br>Xubuntu<br>UNIX<br>MacOSX<br>Windows<br>"
 	},
  
 	{
 		"title":"Servers",
-	"Description" : "<br>Linux Ubuntu<br>Windows Server 2012<br>"
+	"Description" : "Linux Ubuntu<br>Windows Server 2012<br>"
 	},
 
 	{
 		"title":"CMS",
-		"Description" : "<br>Wordpress<br>Joomla<br>Drupal<br>Wagtail<br>"
+		"Description" : "Wordpress<br>Joomla<br>Drupal<br>Wagtail<br>"
 	},
 	{
 		"title":"VCS",
-		"Description" : "<br>GIT<br>Github<br>Mercurial<br>Bitbucket<br>"
+		"Description" : "GIT<br>Github<br>Mercurial<br>Bitbucket<br>"
 	},
 
 
 	{
 		"title":"APIs",
-		"Description" : "<br>Locu, Mpesa, Googlemaps and many more from programmableweb.com<br>"
+		"Description" : "Locu, Mpesa, Googlemaps and many more from programmableweb.com<br>"
 	},
 	
 	
 	{
 		"title":"Project Management",
-		"Description" : "<br>DSDM atern<br>"
+		"Description" : "DSDM atern<br>"
 	},
 	{
 		"title":"More",
-		"Description" : "<br>Hadoop <br>Google App Engine, Google Compute Engine <br>PhotoShop"
+		"Description" : "Hadoop <br>Google App Engine, Google Compute Engine <br>PhotoShop"
 	}
 	
 	
@@ -157,61 +159,79 @@ var projects = {
 	"projectsList":[
 	{
 		"title" : " This  Resume ",
-		"githublink" : "<div class=github-link><br>Github link</div><br><br>",
+		"githubname": "Check out the Github Repo",
+		"githublink" : "https://github.com/stevex2/stevemwiti",
 		"Description" : "<br>This resume you are currently viewing was built with HTML5 and alot of Javascript," + 
-		" mostly Javascript<br><br><img src=images/me.png><br>" ,
+		" mostly Javascript<br>" ,
+		"images": ["images/me.png"],
 
 		
 	},
 
 	{
 		"title" : "Shooter",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : "<br>This game was built ",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com",
+		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
+		"images": ["images/me.png"],
 		
 
 	},
 	{
 		"title" : "Movie Reminder",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com",
 		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
+		"images": ["images/me.png"],
+		
 		
 	},
 
 	{
 		"title" : "Globalstylings",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : ["<br>Developed a Dynamic website for globastylings, a fictitious international hair salon, " + 
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com",
+		"Description" : ["Developed a Dynamic website for globastylings, a fictitious international hair salon, " + 
 		"it included an appointment system that allow users<br> to create a record for themselves and " + 
 		"then log in to the system to book an appointment at one of the three salons in London, Paris or New York. <br>" + 
 		"The system also accessed a web service to convert from pounds into euros and dollars, using current exchange" + 
 		" rates used PHP,CSS, Javascript :-) and a Mysql DB."],
+		"images": ["images/me.png"],
 		
 	},
 	{
 		"title" : "2-do",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : "<br>A to-do list application built with python django framework",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com>",
+		"Description" : "A to-do list application built with python django framework",
+		"images": ["images/me.png"],
 		
 
 	},
 	
 	{
 		"title" : "nodejs",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : "<br>NodeJs is an absoulutely brilliant platform, Thank you Ryan Dahl   built with nodejs"
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com",
+		"Description" : "NodeJs is an absoulutely brilliant platform, Thank you Ryan Dahl   built with nodejs",
+		"images": ["images/me.png"],
 	},
 	{
 		"title" : "Blogging System",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : "<br>Built entirely with python django frame work, it allows a user to manage their blogs",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" :  "myurl.com",
+		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
+		"images": ["images/me.png"],
+		//"<div class=github-link><br>Github link</div><br><br>",
 		
 
 	},
 	{
 		"title" : "Tweeter app",
-		"githublink" :  "<div class=github-link><br>Github link</div><br><br>",
-		"Description" : "<br>This app built with Python and Angular javascript helps users manage their tweets",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" :  "myurl.com",
+		"Description" : "This app built with Python and Angular javascript helps users manage their tweets",
+		"images": ["images/me.png"],
 		
 	}
 
@@ -229,8 +249,15 @@ projects.display = function(){
 	var formattedProjectDescription = HTMLprojectDescription.replace("%data%", projects.projectsList[project].Description);
 	$(".project-entry:last").append(formattedProjectDescription);
 
-	var formattedgithub = HTMLGithub.replace("%data%", projects.projectsList[project].githublink);
-	$(".project-entry:last").append(formattedgithub);
+
+
+	for(img in projects.projectsList[project].images) {
+				var formattedProjectImage = HTMLprojectImage.replace("%data%", projects.projectsList[project].images[img]);
+				$(".project-entry:last").append(formattedProjectImage);
+			}
+
+	var formattedgithub = HTMLGithub.replace("%data%", projects.projectsList[project].githubname).replace("#", projects.projectsList[project].githublink);
+	$(".project-entry:last").append(formattedgithub);		
 
 	
 
@@ -276,9 +303,10 @@ var work = {
 		"employer" : "Ripe Logistics",
 		"title" : "Web developer",
 		"location": "Nairobi",
-		"responsibility" : "Maintained and secured the website with encryption methodologies such as sha, md5.><br>" + 
+		"responsibility" : "Maintained and secured the website with encryption methodologies such as sha, md5.<br>" + 
 		"Developing, testing, evaluating, and installing upgrades and new software like POS and Inventory management system<br>" + 
-		"Liased with vendors and suppliers."
+		"Liased with vendors and suppliers.<br>"+
+		"Delivering fruits and veggies for export."
 	},
 
 	{
@@ -325,6 +353,7 @@ var education = {
 		"city":"Nairobi",
 		"degree":"<br>Bsc. Business Information systems",
 		"major":"Web Development"
+
 	},
 	
 	{
@@ -342,6 +371,7 @@ education.display = function (){
 for (school in education.schools){
 	
 	$("#education").append(HTMLschoolStart);
+
 	var formattedSchoolName = HTMLschoolName.replace("%data%", education.schools[school].name);
 	$(".education-entry:last").append(formattedSchoolName);
 

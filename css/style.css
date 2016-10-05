@@ -53,11 +53,19 @@ h4 {
   color: #4a4a4a;
   line-height: 17px;
 }
+h6 {
+  font-size: 16px;
+  color: #f5a623;
+  line-height: 48px;
+  float: right;
+ /* display: inline;*/
+}
 
 h2,
 h3,
 h4,
-h5 {
+h5,
+h6 {
   padding:10px 5%;
 
 }

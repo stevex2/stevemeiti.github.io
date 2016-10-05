@@ -39,14 +39,14 @@ var HTMLworkDescription = '<p><br>%data%</p><br>';
 
 var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<a href="#">%data%</a>';
-var HTMLGithub = '<a href="#">%data%</a>'
+var HTMLGithub = '<a href="#"><h6>%data%</h6><br><br></a>'
 var HTMLprojectDates = '<div class="date-text">%data%</div>';
-var HTMLprojectDescription = '%data%<br>';
+var HTMLprojectDescription = '<br>%data%<br>';
 var HTMLprojectImage = '<img src="%data%">';
 
 
 var HTMLtechsummary= '<div class="tech-entry"></div>';
-var HTMLTechTitle = '<a href="#">%data%</a>';
+var HTMLTechTitle = '<h1><a href="#">%data%</a></h1>';
 var HTMLTechDescription = '%data%';
 
 var HTMLschoolStart = '<div class="education-entry"></div>';
