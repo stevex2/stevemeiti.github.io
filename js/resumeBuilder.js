@@ -210,10 +210,18 @@ var projects = {
 	},
 	
 	{
-		"title" : "nodejs",
+		"title" : "imgloader",
 		"githubname": "Check out the Github Repo<br>",
 		"githublink" : "myurl.com",
-		"Description" : "NodeJs is an absoulutely brilliant platform, Thank you Ryan Dahl   built with nodejs",
+		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
+		"an excellent applications which are fast and efficient"+
+		" Thank you Ryan Dahl"+  
+		"This simple image loader is built with nodejs, the use case:"+
+		"The user should be able to use our application with a web browser<br>"+
+		"The user should see a welcome page when requesting http://localhost:8888/start which"+
+          "displays a file upload form"+
+		"and finally choose an image file to upload and submitting the form, this image should then be"+
+"		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished",
 		"images": ["images/me.png"],
 	},
 	{
