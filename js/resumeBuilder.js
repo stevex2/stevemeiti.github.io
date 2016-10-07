@@ -1,4 +1,4 @@
-sss/*
+/*
   code to build the resume will go here.
  */
 
@@ -21,17 +21,16 @@ var bio = {
 	" Who am I ? <br>Again;  A web developer,  a deliverer of things, i possess: Great communication skills and i get's along great with people",
 					" I'm a fast learner, who can find solutions to problems quickly, I’m also a self starter, oh!," + 
 					"  did i mention my great passion for technology. Especially software development ", 
-			 		"programming is a craft, an art and a science, plus", +
+			 		"programming is a craft, an art and a science, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
-					" accomplishment. Like having a Kid i guess :-)   ",+
-					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", +
+					" accomplishment. Like having a Kid i guess :-)   ",
+					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", 
 					
 					
 			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
 			 		],
 
-	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>",+
-	 " Basketball", "Brainstorming", "Delivering things",
+	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
  "Awesomeness"],
 
  "biopic":"images/mycv.png"
@@ -159,20 +158,18 @@ var projects = {
 	"projectsList":[
 	{
 		"title" : " This  Resume ",
-		"githubname": "Check out the Github Repo",
+		"githubname": "View the Github Repo",
 		"githublink" : "https://github.com/stevex2/stevemwiti",
 		"Description" : "<br>This resume you are currently viewing was built with HTML5 and alot of Javascript," + 
-		" mostly Javascript<br>" +
-		"it also uses the d3 js library to display the tech section"+
-		"d3 visualizations",
-		"images": ["images/me.png"],
+		" mostly Javascript<br>" ,
+		"images": ["images/mycv.png"],
 
 		
 	},
 
 	{
 		"title" : "Shooter",
-		"githubname": "Check out the Github Repo<br>",
+		"githubname": "View the Github Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
 		"images": ["images/ralphyrobot.png"],
@@ -181,7 +178,7 @@ var projects = {
 	},
 	{
 		"title" : "Movie Reminder",
-		"githubname": "Check out the Github Repo<br>",
+		"githubname": "View the Github Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
 		"images": ["images/me.png"],
@@ -191,8 +188,8 @@ var projects = {
 
 	{
 		"title" : "Globalstylings",
-		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com",
+		"githubname": "View the Github Repo<br>",
+		"githublink" : "https://github.com/stevex2/globalstyling",
 		"Description" : ["Developed a Dynamic website for globastylings, a fictitious international hair salon, " + 
 		"it included an appointment system that allow users<br> to create a record for themselves and " + 
 		"then log in to the system to book an appointment at one of the three salons in London, Paris or New York. <br>" + 
@@ -203,8 +200,8 @@ var projects = {
 	},
 	{
 		"title" : "2-do",
-		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com>",
+		"githubname": "View the Github Repo<br>",
+		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
 		"images": ["images/me.png"],
 		
@@ -212,9 +209,9 @@ var projects = {
 	},
 	
 	{
-		"title" : "imgloader",
-		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com",
+		"title" : "Image Loader",
+		"githubname": "View the Github Repo<br>",
+		"githublink" : "https://github.com/stevex2/imgloader",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
 		"an excellent applications which are fast and efficient"+
 		" Thank you Ryan Dahl"+  
@@ -225,10 +222,12 @@ var projects = {
 		"and finally choose an image file to upload and submitting the form, this image should then be"+
 "		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished",
 		"images": ["images/me.png"],
+
+
 	},
 	{
 		"title" : "Blogging System",
-		"githubname": "Check out the Github Repo<br>",
+		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
 		"images": ["images/me.png"],
@@ -238,7 +237,7 @@ var projects = {
 	},
 	{
 		"title" : "Tweeter app",
-		"githubname": "Check out the Github Repo<br>",
+		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "This app built with Python and Angular javascript helps users manage their tweets",
 		"images": ["images/me.png"],
@@ -315,8 +314,7 @@ var work = {
 		"location": "Nairobi",
 		"responsibility" : "Maintained and secured the website with encryption methodologies such as sha, md5.<br>" + 
 		"Developing, testing, evaluating, and installing upgrades and new software like POS and Inventory management system<br>" + 
-		"Liased with vendors and suppliers.<br>"+
-		"Delivering fruits and veggies for export."
+		"Liased with vendors and suppliers."
 	},
 
 	{
