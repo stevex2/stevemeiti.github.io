@@ -92,7 +92,9 @@ var techsummary = {
 	"Description" : "Python(django)<br>Javascript(angular and nodejs, jquery library)<br>PHP(Laravel)<br>" +
 		"HTML5<br>CSS<br>Java<br>C<br>Well versed in OOP analysis and design methodologies<br>MVC design patterns as well," + 
 		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"+
-		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"
+		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"+
+		"Well versed in object oriented methodologies"+
+		"Well versed in MVC(MTV) patterns and frameworks"
 				},
 	{	
 	"title":"Databases",									
@@ -195,7 +197,7 @@ var projects = {
 		"then log in to the system to book an appointment at one of the three salons in London, Paris or New York. <br>" + 
 		"The system also accessed a web service to convert from pounds into euros and dollars, using current exchange" + 
 		" rates used PHP,CSS, Javascript :-) and a Mysql DB."],
-		"images": ["images/me.png"],
+		"images": ["images/6.jpeg"],
 		
 	},
 	{
@@ -203,7 +205,7 @@ var projects = {
 		"githubname": "View the Github Repo<br>",
 		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
-		"images": ["images/me.png"],
+		"images": ["images/4.jpeg"],
 		
 
 	},
@@ -213,15 +215,15 @@ var projects = {
 		"githubname": "View the Github Repo<br>",
 		"githublink" : "https://github.com/stevex2/imgloader",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
-		"an excellent applications which are fast and efficient"+
-		" Thank you Ryan Dahl"+  
-		"This simple image loader is built with nodejs, the use case:"+
+		"an excellent applications which are fast and efficient<br>"+
+		" Thank you Ryan Dahl<br>"+  
+		"This simple image loader is built with nodejs, the use case:<br>"+
 		"The user should be able to use our application with a web browser<br>"+
 		"The user should see a welcome page when requesting http://localhost:8888/start which"+
-          "displays a file upload form"+
+          "displays a file upload form<br>"+
 		"and finally choose an image file to upload and submitting the form, this image should then be"+
-"		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished",
-		"images": ["images/me.png"],
+"		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished<br>",
+		"images": ["images/11.jpeg"],
 
 
 	},
@@ -230,7 +232,7 @@ var projects = {
 		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
-		"images": ["images/me.png"],
+		"images": ["images/2.jpeg"],
 		//"<div class=github-link><br>Github link</div><br><br>",
 		
 
