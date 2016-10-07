@@ -161,7 +161,8 @@ var projects = {
 		"title" : " This  Resume ",
 		"githubname": "Check out the Github Repo",
 		"githublink" : "https://github.com/stevex2/stevemwiti",
-		"Description" : "<br>This resume you are currently viewing was built with HTML5 and alot of Javascript", +
+		"Description" : "<br>This resume you are currently viewing was built with HTML5 and alot of Javascript," + 
+		" mostly Javascript<br>" +
 		"it also uses the d3 js library to display the tech section"+
 		"d3 visualizations",
 		"images": ["images/me.png"],
@@ -171,15 +172,6 @@ var projects = {
 
 	{
 		"title" : "Shooter",
-		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com",
-		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
-		"images": ["images/ralphyrobot.png"],
-		
-
-	},
-	{
-		"title" : "Frogger",
 		"githubname": "Check out the Github Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
@@ -212,17 +204,8 @@ var projects = {
 	{
 		"title" : "2-do",
 		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "https://github.com/stevex2/2do",
+		"githublink" : "myurl.com>",
 		"Description" : "A to-do list application built with python django framework",
-		"images": ["images/me.png"],
-		
-
-	},
-	{
-		"title" : "2-do",
-		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "https://github.com/stevex2",
-		"Description" : "A to-do list application built with NodeJs",
 		"images": ["images/me.png"],
 		
 
@@ -231,7 +214,7 @@ var projects = {
 	{
 		"title" : "imgloader",
 		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "https://github.com/stevex2/imgloader",
+		"githublink" : "myurl.com",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
 		"an excellent applications which are fast and efficient"+
 		" Thank you Ryan Dahl"+  
