@@ -1,4 +1,4 @@
-/*
+sss/*
   code to build the resume will go here.
  */
 
@@ -21,10 +21,10 @@ var bio = {
 	" Who am I ? <br>Again;  A web developer,  a deliverer of things, i possess: Great communication skills and i get's along great with people",
 					" I'm a fast learner, who can find solutions to problems quickly, I’m also a self starter, oh!," + 
 					"  did i mention my great passion for technology. Especially software development ", 
-			 		"programming is a craft, an art and a science, plus", 
+			 		"programming is a craft, an art and a science, plus", +
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
-					" accomplishment. Like having a Kid i guess :-)   ",
-					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", 
+					" accomplishment. Like having a Kid i guess :-)   ",+
+					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", +
 					
 					
 			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
@@ -175,7 +175,16 @@ var projects = {
 		"githubname": "Check out the Github Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
-		"images": ["images/me.png"],
+		"images": ["images/ralphyrobot.png"],
+		
+
+	},
+	{
+		"title" : "Frogger",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "myurl.com",
+		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
+		"images": ["images/ralphyrobot.png"],
 		
 
 	},
@@ -204,8 +213,17 @@ var projects = {
 	{
 		"title" : "2-do",
 		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com>",
+		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
+		"images": ["images/me.png"],
+		
+
+	},
+	{
+		"title" : "2-do",
+		"githubname": "Check out the Github Repo<br>",
+		"githublink" : "https://github.com/stevex2",
+		"Description" : "A to-do list application built with NodeJs",
 		"images": ["images/me.png"],
 		
 
@@ -214,7 +232,7 @@ var projects = {
 	{
 		"title" : "imgloader",
 		"githubname": "Check out the Github Repo<br>",
-		"githublink" : "myurl.com",
+		"githublink" : "https://github.com/stevex2/imgloader",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
 		"an excellent applications which are fast and efficient"+
 		" Thank you Ryan Dahl"+  
