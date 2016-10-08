@@ -12,7 +12,7 @@ var bio = {
 	"contacts":  {
 		"mobile" : "0728599135", 
 		"email" : "ennovathedons@gmail.com",
-		"github" : "stevex1",
+		"github" : "stevex2",
 		"twitter" : "@iamstevex",
 		"location" : "Nairobi"
 	},
