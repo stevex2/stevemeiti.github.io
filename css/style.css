@@ -180,6 +180,9 @@ a {
 .center-content {
   padding: 2.5% 5%;
 }
+ body {
+    background-image: url("images/home.jpg");
+}
 
 ul {
   list-style-type: none;

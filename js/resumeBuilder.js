@@ -172,7 +172,7 @@ var projects = {
 	{
 		"title" : "Shooter",
 		"githubname": "View the Github Repo<br>",
-		"githublink" : "myurl.com",
+		"githublink" :  "https://github.com/stevex2/rpg",
 		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
 		"images": ["images/ralphyrobot.png"],
 		
