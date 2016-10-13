@@ -18,20 +18,20 @@ var bio = {
 	},
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
-	" Who am I ? <br>  A web developer,  a deliverer of things(on time might i add) and  I posess: Great communication skills, I get along great with people",
-					" I'm a fast learner, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
-					"  did i mention my great passion for technology. Especially software development because ", 
+	" Who am I ? <br>  A web developer,  a deliverer of things,  I possess: Great communication skills and  get's along great with people",
+					" I'm a fast learner, who can find solutions to problems quickly, I’m also a self starter, oh!," + 
+					"  did i mention my great passion for technology. Especially software development ", 
 			 		"programming is a craft, an art and a science, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
 					" accomplishment. Like having a Kid i guess :-)   ",
-					" <br> <br>I am very fascinated by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
+					" <br> <br>I am also fascinated by the possibilities of Big Data Analytics and Cloud computing", 
 					
 					
 			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
- "Awesomeness", "NodeJs"],
+ "Awesomeness"],
 
  "biopic":"images/mycv.png"
 }
