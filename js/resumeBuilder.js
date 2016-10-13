@@ -163,7 +163,7 @@ var projects = {
 		"githubname": "View the Github Repo",
 		"githublink" : "https://github.com/stevex2/stevemwiti",
 		"Description" : "<br>This resume you are currently viewing was built with HTML5, CSS3 and alot of Javascript," + 
-		" mostly Javascript<br> I am yet to intergrate the d3 js library for the tech section to have a better look and feel for the resume site" 
+		" mostly Javascript<br> I am yet to intergrate the d3 js library for the tech section to have a better look and feel for the resume site",
 		"images": ["images/mycv.png"],
 
 		
