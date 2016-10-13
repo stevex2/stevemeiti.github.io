@@ -18,13 +18,13 @@ var bio = {
 	},
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
-	" Who am I ? <br>  A web developer,  a deliverer of things (on time i might add) and I possess: Great communication skills, get along great with people, ",
+	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
 					" I'm a fast learner, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
-					"  did i mention my great passion for technology?   Especially software development because", 
-			 		"programming is a craft, an art and a science, plus", 
+					"  did i mention my great passion for technology?   Especially software development because ", 
+			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
 					" accomplishment. Like having a Kid i guess :-)   ",
-					" <br> <br>I am very fascinated by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
+					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
 			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
@@ -163,7 +163,8 @@ var projects = {
 		"githubname": "View the Github Repo",
 		"githublink" : "https://github.com/stevex2/stevemwiti",
 		"Description" : "<br>This resume you are currently viewing was built with HTML5, CSS3 and alot of Javascript," + 
-		" mostly Javascript<br> I am yet to intergrate the d3 js library for the tech section to have a better look and feel for the resume site",
+		" mostly Javascript"+
+		" <br> <br>I am yet to intergrate the d3 js library for the tech section to have a better look and feel for the resume site",
 		"images": ["images/mycv.png"],
 
 		
