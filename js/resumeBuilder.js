@@ -93,7 +93,7 @@ var techsummary = {
 		"HTML5<br>CSS<br>Java<br>C<br>Well versed in OOP analysis and design methodologies<br>MVC design patterns as well," + 
 		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"+
 		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"+
-		"Well versed in object oriented methodologies"+
+		"Well versed in object oriented methodologies <br>"+
 		"Well versed in MVC(MTV) patterns and frameworks"
 				},
 	{	
