@@ -31,7 +31,7 @@ var bio = {
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
- "Awesomeness","NodeJs"],
+ "Awesomeness","NodeJs "],
 
  "biopic":"images/mycv.png"
 }
