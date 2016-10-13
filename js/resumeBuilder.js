@@ -215,8 +215,8 @@ var projects = {
 		"title" : "Image Loader",
 		"githubname": "View the Github Repo<br>",
 		"githublink" : "https://github.com/stevex2/imgloader",
-		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for"+
-		"an excellent applications which are fast and efficient<br>"+
+		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for "+
+		" excellent applications which are not only fast but efficient<br>"+
 		" Thank you Ryan Dahl<br>"+  
 		"This simple image loader is built with nodejs, the use case:<br>"+
 		"The user should be able to use our application with a web browser<br>"+
@@ -242,7 +242,7 @@ var projects = {
 		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "This app built with Python and Angular javascript helps users manage their tweets",
-		"images": ["images/me.png"],
+		"images": ["images/9.jpeg"],
 		
 	}
 
