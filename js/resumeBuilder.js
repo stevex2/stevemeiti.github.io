@@ -212,7 +212,7 @@ var projects = {
 	},
 	
 	{
-		"title" : "Image Loader",
+		"title" : "<br><br>Image Loader",
 		"githubname": "View the Github Repo<br>",
 		"githublink" : "https://github.com/stevex2/imgloader",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for "+
@@ -260,6 +260,9 @@ projects.display = function(){
 	var formattedProjectDescription = HTMLprojectDescription.replace("%data%", projects.projectsList[project].Description);
 	$(".project-entry:last").append(formattedProjectDescription);
 
+	var formattedgithub = HTMLGithub.replace("%data%", projects.projectsList[project].githubname).replace("#", projects.projectsList[project].githublink);
+	$(".project-entry:last").append(formattedgithub);
+
 
 
 	for(img in projects.projectsList[project].images) {
@@ -267,8 +270,7 @@ projects.display = function(){
 				$(".project-entry:last").append(formattedProjectImage);
 			}
 
-	var formattedgithub = HTMLGithub.replace("%data%", projects.projectsList[project].githubname).replace("#", projects.projectsList[project].githublink);
-	$(".project-entry:last").append(formattedgithub);		
+			
 
 	
 
