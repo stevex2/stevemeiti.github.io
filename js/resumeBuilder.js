@@ -27,7 +27,8 @@ var bio = {
 					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
-			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. "
+			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. <br>"+
+			 		"<a>open source intelligence"
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
