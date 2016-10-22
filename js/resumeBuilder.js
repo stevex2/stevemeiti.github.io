@@ -99,7 +99,7 @@ var techsummary = {
 				},
 	{	
 	"title":"Databases",									
-	"Description" : "Mysql<br>Postgre<br>MongoDB<br>Oracle 11g<br>Ms access<br>"
+	"Description" : "Mysql<br>Postgre<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
 	},
 
 	{
@@ -124,7 +124,7 @@ var techsummary = {
 
 	{
 		"title":"APIs",
-		"Description" : "Locu, Mpesa, Googlemaps and many more from programmableweb.com<br>"
+		"Description" : "Locu, Mpesa, GoogleAPIs like Googlemaps, Google translate and many more from programmableweb.com<br>"
 	},
 	
 	
@@ -299,7 +299,7 @@ var work = {
 		"responsibility" : [
 			"I develop cool web applications with javascript and HTML5 including games <br>" + 
 			"Some cool python(django) sites and applications.<br>this inventory management system built with python " + 
-			" and Qt library.<br>Android conference management app."
+			" and Qt library.<br>Android conference management app called conference manager running on app engine it has a java backend, datastore database and  HTML CSS Javascript(angular) frontend ."
 			]
 	
 	},
