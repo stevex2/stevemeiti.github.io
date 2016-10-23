@@ -147,7 +147,7 @@ function initializeMap() {
     // as described in the Udacity FEND Style Guide:
     // https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html#for-in-loop
     education.schools.forEach(function(school){
-      locations.push(school.location);
+      locations.push( education.schools[school].city);
     });
 
 
@@ -156,13 +156,13 @@ function initializeMap() {
     // as described in the Udacity FEND Style Guide:
     // https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html#for-in-loop
     work.jobs.forEach(function(job){
-      locations.push(job.location);
+      locations.push(work.jobs[job].location);
     });
 
     // iterates through school locations and appends each location to
     // the locations array
     for (var school in education.schools) {
-      locations.push(education.schools[school].location);
+      locations.push(education.schools[school].city);
     }
 
     // iterates through work locations and appends each location to
@@ -239,7 +239,7 @@ function initializeMap() {
       locations.forEach(function(place){
       // the search request object
       var request = {
-        query: place
+        query: locations[place]
       };
 
       // Actually searches the Google Maps API for location data and runs the callback
