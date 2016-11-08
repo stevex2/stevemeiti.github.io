@@ -245,7 +245,7 @@ var projects = {
 		"Description" : "a real‐time stock watchlist monitoring and management application",
 		"images": ["images/9.jpeg"],
 		
-	}
+	},
 
 	{
 		"title" : "StockDog",
