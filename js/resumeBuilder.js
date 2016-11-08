@@ -252,7 +252,7 @@ var projects = {
 		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "A real‐time stock watchlist monitoring and management application, its a single page application built with AngularJS",
-		"images": ["images/stock.png"],
+		"images": ["images/me.png"],
 		
 	}
 
