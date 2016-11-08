@@ -231,7 +231,7 @@ var projects = {
 	{
 		"title" : "Blogging System",
 		"githubname": "View the Github Repo<br>",
-		"githublink" :  "myurl.com",
+		"githublink" :  "https://github.com/stevex2/bloggingsystem",
 		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
 		"images": ["images/2.jpeg"],
 		//"<div class=github-link><br>Github link</div><br><br>",
@@ -242,8 +242,17 @@ var projects = {
 		"title" : "Tweeter app",
 		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
-		"Description" : "This app built with Python and Angular javascript helps users manage their tweets",
+		"Description" : "a real‐time stock watchlist monitoring and management application",
 		"images": ["images/9.jpeg"],
+		
+	}
+
+	{
+		"title" : "StockDog",
+		"githubname": "View the Github Repo<br>",
+		"githublink" :  "myurl.com",
+		"Description" : "A real‐time stock watchlist monitoring and management application, its a single page application built with AngularJS",
+		"images": ["images/stock.png"],
 		
 	}
 
