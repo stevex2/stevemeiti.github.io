@@ -307,7 +307,7 @@ var work = {
 		"location": "Nairobi",
 		"responsibility" : [
 			"-I develop cool web applications with javascript and HTML5 including games <br>" + 
-			"-Some cool python(django) sites and applications.<br>--this inventory management system built with python " + 
+			"-Some cool python(django) sites and applications.<br>-this inventory management system built with python " + 
 			" and Qt library.<br>-Android conference management app called conference manager running on app engine it has a java backend, Google Cloud Datastore database and  HTML CSS Javascript(angular) frontend ."
 			]
 	
@@ -326,7 +326,7 @@ var work = {
 		"employer" : "Ripe Logistics",
 		"title" : "Web developer",
 		"location": "Nairobi",
-		"responsibility" : "-Maintained and secured the website with encryption methodologies such as sha, md5.<br>" + 
+		"responsibility" : "-Maintained and secured the website with various encryption methodologies <br>" + 
 		"-Developing, testing, evaluating, and installing upgrades and new software like POS and Inventory management system<br>" + 
 		"-Liased with vendors and suppliers."
 	},
@@ -336,8 +336,8 @@ var work = {
 		"title" : "Helpdesk technician ",
 		"location": "Embu",
 		"responsibility" : [
-			"-Desktop support for onsite and remote users.<br>Active directory user and group management.<br>" + 
-			"-Pc and Software troubleshooting<br>User and email account creation and maintenance.<br>" + 
+			"-Desktop support for onsite and remote users.<br>-Active directory user and group management.<br>" + 
+			"-Pc and Software troubleshooting<br>-User and email account creation and maintenance.<br>" + 
 			"-Maintained LAN/WAN/WLAN connectivity<br>Network security using various tools."]
 	}	
 	]
