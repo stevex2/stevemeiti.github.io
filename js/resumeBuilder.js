@@ -374,7 +374,7 @@ var education = {
 		"name":"University of Greenwich at Multimedia",
 		"city":"Nairobi",
 		"degree":"<br>Bsc. Business Information systems",
-		"major":"Web Development"
+		"major":"Software Development"
 
 	},
 	
