@@ -32,7 +32,7 @@ var bio = {
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
- "Awesomeness","NodeJs "],
+ "Awesomeness","NodeJs ", "R"],
 
  "biopic":"images/mycv.png"
 }
@@ -109,7 +109,7 @@ var techsummary = {
  
 	{
 		"title":"Servers",
-	"Description" : "Linux Ubuntu<br>Windows Server 2012<br>"
+	"Description" : "Linux Ubuntu Configuring Linux Web Servers<br>Windows Server 2012<br>"
 	},
 
 	{
