@@ -19,7 +19,7 @@ var bio = {
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
 	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
-					" I'm a fast learner and a lateral thinker, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
+					" I'm a fast learner, a lateral and critical thinker, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
