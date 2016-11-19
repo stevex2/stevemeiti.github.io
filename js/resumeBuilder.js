@@ -19,16 +19,18 @@ var bio = {
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
 	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
-					" I'm a fast learner, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
+					" I'm a fast learner and a lateral thinker, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
-					" accomplishment. Like having a Kid i guess :-)   ",
+					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I am very active. I enjoy making things happen."+
+					" I know what questions to ask to generate solutions, and"+
+					"I act IMMEDIATELY on the answers I get. ",
 					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
-			 		"<a>I believe teamwork makes the dream work, cliche i know, but true.. <br>"+
-			 		"<a>open source intelligence"
+			 		"<a>I firmly believe teamwork makes the dream work,  <br>"+
+			 		"<a>open source intelligence.  Knowledge is the crown of Kings"
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
