@@ -244,7 +244,8 @@ var projects = {
 		"title" : "Tweeter app",
 		"githubname": "View the Github Repo<br>",
 		"githublink" :  "myurl.com",
-		"Description" : "a real‐time stock watchlist monitoring and management application",
+		"Description" : "An App built with django and AngularJS	 that displays a list of tweets from all users, display my tweets(logged in users),<br>"+
+		" show my my profile-username etc",
 		"images": ["images/9.jpeg"],
 		
 	},
