@@ -191,7 +191,7 @@ var projects = {
 		"githubname": "Check out the Repo<br>",
 		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
-		"images": ["images/todo.png"],
+		"images": ["images/todo.jpg"],
 		
 
 	},
