@@ -187,7 +187,7 @@ var projects = {
 		"githubname": "Check out the Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
-		"images": ["images/quinn.jpg"],
+		"images": ["images/deadshot.jpg"],
 		
 		
 	},
