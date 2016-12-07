@@ -226,7 +226,7 @@ var projects = {
 		"The user should see a welcome page when requesting http://localhost:8888/start which displays a file upload form<br>"+
 		"and finally choose an image file to upload and submitting the form, this image should then be"+
 "		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished<br>",
-		"images": ["images/11.jpeg"],
+		"images": ["images/tiger.jpeg"],
 
 
 	},
@@ -235,7 +235,7 @@ var projects = {
 		"githubname": "Check out the Repo<br>",
 		"githublink" :  "https://github.com/stevex2/bloggingsystem",
 		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
-		"images": ["images/Tweeter.png"],
+		"images": ["images/blog.jpg"],
 		//"<div class=github-link><br>Github link</div><br><br>",
 		
 
@@ -246,7 +246,7 @@ var projects = {
 		"githublink" :  "myurl.com",
 		"Description" : "An App built with django and AngularJS	 that displays a list of tweets from all users, display my tweets(logged in users),<br>"+
 		" show my my profile-username etc",
-		"images": ["images/9.jpeg"],
+		"images": ["images/Tweeter.png"],
 		
 	},
 
@@ -254,8 +254,8 @@ var projects = {
 		"title" : "StockDog",
 		"githubname": "Check out the Repo<br>",
 		"githublink" :  "myurl.com",
-		"Description" : "A real‐time stock watchlist monitoring and management application, its a single page application built with AngularJS",
-		"images": ["images/me.png"],
+		"Description" : "A real‐time stock watchlist monitoring and management application,a portfolio management app. its a single page application built with AngularJS",
+		"images": ["images/stock.jpeg"],
 		
 	}
 
