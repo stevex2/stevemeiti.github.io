@@ -17,20 +17,20 @@ var bio = {
 		"location" : "Nairobi"
 	},
 
-	"welcomemessage" :["<br><br>Hi there,  I'm steve I'm a web developer and I absolutely love technology.	" + 
+	"welcomemessage" :["<br><br>Hi there,  I'm steve a web developer and I absolutely love technology.	" + 
 	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
-					" I'm a fast learner, a lateral and critical thinker, who can find solutions to problems quickly and I’m also a self starter, oh!," + 
+					" I'm a lateral and critical thinker, a fast learner who can find solutions to problems quickly, a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
-					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I am very active. I enjoy making things happen."+
+					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I'm very active. I enjoy making things happen."+
 					" I know what questions to ask to generate solutions, and"+
 					"I act IMMEDIATELY on the answers I get. ",
 					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
 			 		"<a>I firmly believe teamwork makes the dream work,  <br>"+
-			 		"<a>open source intelligence.  Knowledge is the crown of Kings"
+			 		"<a>open source intelligence.  <br><br>Knowledge the crown of Kings"
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
@@ -163,7 +163,7 @@ var projects = {
 	"projectsList":[
 	{
 		"title" : " This  Resume ",
-		"githubname": "View the Github Repo",
+		"githubname": "Check out the Repo",
 		"githublink" : "https://github.com/stevex2/stevemwiti",
 		"Description" : "<br>This resume you are currently viewing was built with HTML5, CSS3 and alot of Javascript," + 
 		" mostly Javascript"+
@@ -175,7 +175,7 @@ var projects = {
 
 	{
 		"title" : "Shooter",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" :  "https://github.com/stevex2/rpg",
 		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
 		"images": ["images/ralphyrobot.png"],
@@ -184,7 +184,7 @@ var projects = {
 	},
 	{
 		"title" : "Movie Reminder",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" : "myurl.com",
 		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
 		"images": ["images/me.png"],
@@ -194,7 +194,7 @@ var projects = {
 
 	{
 		"title" : "Globalstylings",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" : "https://github.com/stevex2/globalstyling",
 		"Description" : ["Developed a Dynamic website for globastylings, a fictitious international hair salon, " + 
 		"it included an appointment system that allow users<br> to create a record for themselves and " + 
@@ -206,7 +206,7 @@ var projects = {
 	},
 	{
 		"title" : "2-do",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
 		"images": ["images/4.jpeg"],
@@ -216,7 +216,7 @@ var projects = {
 	
 	{
 		"title" : "<br><br>Image Loader",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" : "https://github.com/stevex2/imgloader",
 		"Description" : "NodeJs is an absoulutely brilliant platform, the event driven model makes for "+
 		" excellent applications which are not only fast but efficient<br>"+
@@ -232,17 +232,17 @@ var projects = {
 	},
 	{
 		"title" : "Blogging System",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" :  "https://github.com/stevex2/bloggingsystem",
 		"Description" : "Built entirely with python django frame work, it allows a user to manage their blogs",
-		"images": ["images/2.jpeg"],
+		"images": ["images/Tweeter.png"],
 		//"<div class=github-link><br>Github link</div><br><br>",
 		
 
 	},
 	{
 		"title" : "Tweeter app",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "An App built with django and AngularJS	 that displays a list of tweets from all users, display my tweets(logged in users),<br>"+
 		" show my my profile-username etc",
@@ -252,7 +252,7 @@ var projects = {
 
 	{
 		"title" : "StockDog",
-		"githubname": "View the Github Repo<br>",
+		"githubname": "Check out the Repo<br>",
 		"githublink" :  "myurl.com",
 		"Description" : "A real‐time stock watchlist monitoring and management application, its a single page application built with AngularJS",
 		"images": ["images/me.png"],
