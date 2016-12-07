@@ -24,7 +24,7 @@ var bio = {
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
 					" watching a creation you are responsible for grow up and do things, fills you with a sense of pride and" + 
 					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I'm very active. I enjoy making things happen."+
-					" I know what questions to ask to generate solutions, and"+
+					" I know what questions to ask to generate solutions, and "+
 					"I act IMMEDIATELY on the answers I get. ",
 					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
@@ -173,24 +173,6 @@ var projects = {
 		
 	},
 
-	{
-		"title" : "Shooter",
-		"githubname": "Check out the Repo<br>",
-		"githublink" :  "https://github.com/stevex2/rpg",
-		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
-		"images": ["images/ralphyrobot.png"],
-		
-
-	},
-	{
-		"title" : "Movie Reminder",
-		"githubname": "Check out the Repo<br>",
-		"githublink" : "myurl.com",
-		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
-		"images": ["images/deadshot.jpg"],
-		
-		
-	},
 
 	{
 		"title" : "Globalstylings",
@@ -201,7 +183,7 @@ var projects = {
 		"then log in to the system to book an appointment at one of the three salons in London, Paris or New York. <br>" + 
 		"The system also accessed a web service to convert from pounds into euros and dollars, using current exchange" + 
 		" rates used PHP,CSS, Javascript :-) and a Mysql DB."],
-		"images": ["images/6.jpeg"],
+		"images": ["images/style.jpeg"],
 		
 	},
 	{
@@ -209,7 +191,7 @@ var projects = {
 		"githubname": "Check out the Repo<br>",
 		"githublink" : "https://github.com/stevex2/2do",
 		"Description" : "A to-do list application built with python django framework",
-		"images": ["images/4.jpeg"],
+		"images": ["images/todo.png"],
 		
 
 	},
@@ -256,6 +238,24 @@ var projects = {
 		"githublink" :  "myurl.com",
 		"Description" : "A real‐time stock watchlist monitoring and management application,a portfolio management app. its a single page application built with AngularJS",
 		"images": ["images/stock.jpeg"],
+		
+	},
+	{
+		"title" : "Shooter",
+		"githubname": "Check out the Repo<br>",
+		"githublink" :  "https://github.com/stevex2/rpg",
+		"Description" : "<br>This game was built with HTML5 canvases and Javascript ",
+		"images": ["images/ralphyrobot.png"],
+		
+
+	},
+	{
+		"title" : "Movie Reminder",
+		"githubname": "Check out the Repo<br>",
+		"githublink" : "myurl.com",
+		"Description" : "<br>Reminds end users of movie releases and links to info on movies",
+		"images": ["images/deadshot.jpg"],
+		
 		
 	}
 
