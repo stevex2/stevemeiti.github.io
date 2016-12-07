@@ -226,7 +226,7 @@ var projects = {
 		"The user should see a welcome page when requesting http://localhost:8888/start which displays a file upload form<br>"+
 		"and finally choose an image file to upload and submitting the form, this image should then be"+
 "		uploaded to http://localhost:8888/upload, where it is displayed once the upload is finished<br>",
-		"images": ["images/deadshot.jpg"],
+		"images": ["images/quin.jpg"],
 
 
 	},
