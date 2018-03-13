@@ -103,10 +103,12 @@ var techsummary = {
 		"C# and .net development"
 				},
 		{	
-	"title":"Network Security and Cryptography",									
+	"title":"Network Security and Cryptography",
+
 	"Description" : " Using the vast array of tools in Kali Linux like fern wifi, Metaspoilt for penetration testing<br>"+
 					"Various encryption techniques and ciphers"
-	},			
+	},
+				
 	{	
 	"title":"Databases",									
 	"Description" : "Mysql<br>PostgreSql<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
