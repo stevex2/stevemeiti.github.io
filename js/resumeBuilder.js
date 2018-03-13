@@ -106,7 +106,7 @@ var techsummary = {
 	{
 		"title":"Network Security and Cryptography",
 		"Description" : "Hacking(Ethical) and penetration testing using the vast array of tools in Kali Linux<br>"+
-						"like fern-wifi, metaspoilt and so on".	
+						"like fern-wifi, metaspoilt and so on"	
 	},
 
 	{
