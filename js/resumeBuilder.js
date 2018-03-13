@@ -26,7 +26,7 @@ var bio = {
 					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I'm very active. I enjoy making things happen."+
 					" I know what questions to ask to generate solutions, and "+
 					"I act IMMEDIATELY on the answers I get. ",
-					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
+					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics combined with Machine Learning and AI to discover hidden patterns in Data, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
 			 		"<a>I firmly believe teamwork makes the dream work,  <br>"+
@@ -34,7 +34,7 @@ var bio = {
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
- "Awesomeness","NodeJs ", "R"],
+ "Awesomeness","NodeJs ", "R", "c# and .net"],
 
  "biopic":"images/mycv.png"
 }
