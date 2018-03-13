@@ -7,7 +7,7 @@
 var bio = {
 	"name":"Steve Mwiti",
 
-	"role":"Fullstack web developer",
+	"role":"Fullstack Software developer",
 
 	"contacts":  {
 		"mobile" : "0728599135", 
@@ -18,7 +18,7 @@ var bio = {
 	},
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve a web developer and I absolutely love technology.	" + 
-	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
+	" Some Soft skills: <br> <br> I am  Software developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
 					" I'm a lateral and critical thinker, a fast learner who can find solutions to problems quickly, a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
@@ -26,15 +26,16 @@ var bio = {
 					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I'm very active. I enjoy making things happen."+
 					" I know what questions to ask to generate solutions, and "+
 					"I act IMMEDIATELY on the answers I get. ",
-					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics, we live in an ever expanding world of data afterall,  and Cloud computing", 
+					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics combined with Machine learning and AI to discover patterns hidden in data,<br>"+
+					" we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
 					
 			 		"<a>I firmly believe teamwork makes the dream work,  <br>"+
 			 		"<a>open source intelligence.  <br><br>Knowledge the crown of Kings"
 			 		],
 
-	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
- "Awesomeness","NodeJs ", "R"],
+	"Technical skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) NodeJs <br>", " Basketball", "Delivering things",
+ "Awesomeness", "R", "C# and .net"],
 
  "biopic":"images/mycv.png"
 }
@@ -97,16 +98,23 @@ var techsummary = {
 		"in python and PHP(Django, Laravel)<br>Bootstrap UI Framework<br>"+
 		"LAMP(linux, apache, mysql, php)<br>MEAN stack(MongoDB, Express, Angular, NodeJs)<br>"+
 		"Well versed in object oriented methodologies <br>"+
-		"Well versed in MVC(MTV) patterns and frameworks"
+		"Well versed in MVC(MTV) patterns and frameworks"+
+		"Android Development"+
+		"C# and .net development"
 				},
+		{	
+	"title":"Network Security and Cryptography",									
+	"Description" : " Using the vast array of tools in Kali Linux like fern wifi, Metaspoilt for penetration testing<br>"+
+					"Various encryption techniques and ciphers"
+	},			
 	{	
 	"title":"Databases",									
-	"Description" : "Mysql<br>Postgre<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
+	"Description" : "Mysql<br>PostgreSql<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
 	},
 
 	{
 		"title":"Systems",
-	"Description" : "Ubuntu <br> Gnome<br>Lubuntu<br>Xubuntu<br>UNIX<br>MacOSX<br>Windows<br>"
+	"Description" : "Debian, Ubuntu, Kali Linux, Lubuntu, Xubuntu<br>Windows<br><br>UNIX<br>MacOSX"
 	},
  
 	{
@@ -126,17 +134,17 @@ var techsummary = {
 
 	{
 		"title":"APIs",
-		"Description" : "Locu, Mpesa, GoogleAPIs like Googlemaps, Google translate and many more from programmableweb.com<br>"
+		"Description" : "Locu, Mpesa, GoogleAPIs like Googlemaps, Google translate and many many more e.g from programmableweb.com<br>"
 	},
 	
 	
 	{
 		"title":"Project Management",
-		"Description" : "DSDM atern<br>"
+		"Description" : "DSDM atern<br> Agile Development Methodology"
 	},
 	{
 		"title":"More",
-		"Description" : "Hadoop <br>Google App Engine, Google Compute Engine <br>PhotoShop"
+		"Description" : "Hadoop <br>Google App Engine, Google Compute Engine <br>PhotoShop<br> Machine learning"
 	}
 	
 	

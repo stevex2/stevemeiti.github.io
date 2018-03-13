@@ -1,2 +1,0 @@
-python dev:
-Good understanding of Data Structures and Algorithms
