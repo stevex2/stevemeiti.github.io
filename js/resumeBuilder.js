@@ -103,11 +103,13 @@ var techsummary = {
 	"title":"Databases",									
 	"Description" : "Mysql<br>Postgre<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
 	},
-	// {
-	// 	"title":"Network Security and Cryptography",
-	// 	"Description" : "Hacking(Ethical) and penetration testing using the vast array of tools in Kali Linux<br>"+
-	// 					"like fern-wifi, metaspoilt and so on"		
-	// },
+
+	{
+
+	"title":"Network Security and Cryptography",
+	"Description" : "Hacking(Ethical) and penetration testing using the vast array of tools in Kali Linux<br>"+
+					"like fern-wifi, metaspoilt..Huge fan of the cheat engine so..<br>"		
+	},
 
 	{
 		"title":"Systems",
