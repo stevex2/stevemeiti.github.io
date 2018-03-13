@@ -18,7 +18,7 @@ var bio = {
 	},
 
 	"welcomemessage" :["<br><br>Hi there,  I'm steve a Sotware developer and I absolutely love technology.	" + 
-	" Who am I ? <br> <br> A Software developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
+	" Who am I ? <br> <br> A Software developer,  <br>a deliverer of things (on time might I add) <br>Some soft skills I possess: Great communication skills, I get along great with people ",
 					" I'm a lateral and critical thinker, a fast learner who can find solutions to problems quickly, a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
@@ -26,11 +26,13 @@ var bio = {
 					" accomplishment. Like having a Kid i guess :-)  <br> <br> I am a Master of Massive Action. I'm very active. I enjoy making things happen."+
 					" I know what questions to ask to generate solutions, and "+
 					"I act IMMEDIATELY on the answers I get. ",
-					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics combined with Machine Learning and AI to discover hidden patterns in Data, we live in an ever expanding world of data afterall,  and Cloud computing", 
 					
+					" <br> <br>I am very intrigued by the possibilities of Big Data Analytics combined with Machine Learning and AI to discover hidden patterns in Data, we live in an ever expanding world of data afterall,  and Cloud computing", 
+
 					
 			 		"<a>I firmly believe teamwork makes the dream work,  <br>"+
-			 		"<a>open source intelligence.  <br><br>Knowledge the crown of Kings"
+			 		"<a>open source intelligence.  <br><br>Knowledge the crown of Kings"+
+			 		"<br><br>Let's Bulild a thing"
 			 		],
 
 	"skills":["Web Development: Front-end: Javascript(angular), HTML5,CSS3,Bootstrap, Backend: Python(Django) PHP(Laravel) <br>", " Basketball", "Delivering things",
