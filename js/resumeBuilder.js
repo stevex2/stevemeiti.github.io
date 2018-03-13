@@ -7,7 +7,7 @@
 var bio = {
 	"name":"Steve Mwiti",
 
-	"role":"Fullstack web developer",
+	"role":"Fullstack Software developer",
 
 	"contacts":  {
 		"mobile" : "0728599135", 
@@ -17,8 +17,8 @@ var bio = {
 		"location" : "Nairobi"
 	},
 
-	"welcomemessage" :["<br><br>Hi there,  I'm steve a web developer and I absolutely love technology.	" + 
-	" Who am I ? <br> <br> A web developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
+	"welcomemessage" :["<br><br>Hi there,  I'm steve a Sotware developer and I absolutely love technology.	" + 
+	" Who am I ? <br> <br> A Software developer,  a deliverer of things (on time might I add) and I possess: Great communication skills, I get along great with people ",
 					" I'm a lateral and critical thinker, a fast learner who can find solutions to problems quickly, a self starter, oh!," + 
 					"  did i mention my great passion for technology?   Especially software development because ", 
 			 		"programming is a craft, an art and a science its quite fascinating really, plus", 
@@ -102,6 +102,11 @@ var techsummary = {
 	{	
 	"title":"Databases",									
 	"Description" : "Mysql<br>Postgre<br>Oracle 11g<br>MongoDB<br>Datastore<br>"
+	},
+	{
+		"title":"Network Security and Cryptography",
+		"Description" : "Hacking(Ethical) and penetration testing using the vast array of tools in Kali Linux<br>"+
+						"like fern-wifi, metaspoilt and so on".	
 	},
 
 	{
